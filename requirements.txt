@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+tqdm
+torcheval
+seaborn
+jaxtyping
